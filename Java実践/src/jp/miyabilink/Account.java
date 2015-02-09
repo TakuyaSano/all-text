@@ -6,7 +6,7 @@ package jp.miyabilink;
  */
 public class Account{
 	/** 残高 */
-	private int balance;
+	int balance;
 
 	/** 口座名義人 */
 	private String owner;
